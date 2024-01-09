@@ -1,0 +1,15 @@
+body{
+    background-color:blue;
+}
+h1+p{
+    background-color: brown
+    color(srgb red green blue);
+}
+
+p span {
+    color: whitesmoke;
+}
+
+.ol > li{
+    background-color: bisque;
+}
